@@ -8,6 +8,7 @@
 <body>
 <h1 align="center
 ">Calculadora:</h1>
+<h2>calculadora</h2>
 <fieldset>
     <legend align="center"><b>Cálculo:</b></legend>
    <form align="center" action="" method="post">
